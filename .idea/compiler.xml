@@ -9,6 +9,7 @@
         <module name="vehicles-solution" />
         <module name="vehicles-driver-code" />
         <module name="java-assignment-testing-solution" />
+        <module name="emails-parvez1219" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
